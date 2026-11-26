@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Data Analytics Projects using Excel, SQL, and Power BI<br><br>👯 I'm looking to collaborate on Data Analytics and Business Intelligence Projects<br><br>🤝 I'm looking for help with improving my Data Analytics skills<br><br>🌱 I'm currently learning Advanced SQL, Power BI, Python, and Statistics<br><br>💬 Ask me about Excel, SQL, Power BI, and Data Analytics<br><br>⚡ Fun fact: I enjoy solving SQL problems and turning data into meaningful insights
+I am a B.Sc. IT student with a strong interest in Data Analytics and Business Intelligence. I enjoy working with data to identify trends, understand business performance, and generate meaningful insights. I have hands-on experience with Excel, SQL, Power BI, and Python through academic and personal projects, including Healthcare Operations Analytics and Employee Attrition Analysis. I am continuously enhancing my analytical and technical skills to solve real-world business problems using data-driven approaches. I am passionate about learning, exploring new technologies, and growing as a Data Analyst.
 
 
 # 💻 Tech Stack:
